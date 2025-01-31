@@ -17,7 +17,7 @@
         </ul>
       </td>
       <td>
-        <img src="https://via.placeholder.com/300x300.png?text=Coder+Image" alt="Coder Image" style="border-radius: 15px;">
+        <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" style="border-radius: 15px;">
       </td>
     </tr>
   </table>
