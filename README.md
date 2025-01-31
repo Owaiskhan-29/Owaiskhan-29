@@ -5,7 +5,7 @@
   <table>
     <tr>
       <td>
-        <h2 >💫 About Me:</h2>
+        <h2 align="center" >💫 About Me:</h2>
         <ul>
           <li>🔭 I’m currently working on Data Science</li>
           <li>🌱 I’m currently learning Machine Learning</li>
