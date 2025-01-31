@@ -4,7 +4,7 @@
 <div style="width: 80%; margin: auto; border: 2px solid #ccc; border-radius: 15px; padding: 20px;">
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <!-- About Me Section (Left) -->
-    <div style="width: 48%; text-align: left;">
+    <div style="width: 50%; text-align: left;">
       <h2>💫 About Me:</h2>
       <p style="font-size: 16px; line-height: 1.8;">
         Hello! I am a passionate data enthusiast currently exploring the fascinating world of Data Science. 
@@ -17,7 +17,8 @@
         <a href="mailto:owaiskhan.2906@gmail.com">owaiskhan.2906@gmail.com</a>.
       </p>
     </div>
-    <div style="width: 48%; text-align: center;">
+    <!-- Image Section (Right) -->
+    <div style="width: 50%; text-align: center;">
       <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" style="border-radius: 15px; width: 100%; max-width: 300px; height: auto;">
     </div>
   </div>
