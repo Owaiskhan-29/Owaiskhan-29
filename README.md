@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Owais Khan</h1>
 <h3 align="center">A passionate Data Insighter</h3>
 
-
-
-<h1 align="center">Hi 👋, I'm Owais Khan</h1>
-<h3 align="center">A passionate Data Insighter</h3>
-
 <div align="center">
   <table>
     <tr>
