@@ -1,24 +1,27 @@
 <h1 align="center">Hi 👋, I'm Owais Khan</h1>
 <h3 align="center">A passionate Data Insighter</h3>
 
-## 💫 About Me:
-
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      🔭 I’m currently working on Data Science<br>
-      🌱 I’m currently learning Machine Learning<br>
-      👯 I’m looking to collaborate on Artificial Intelligence<br>
-      🤝 I’m looking for help with Machine Learning<br>
-      👨‍💻 All of my projects are available at <a href="https://github.com/Slopyy-sid">GitHub</a><br>
-      💬 Ask me about Python, Data Science, Java, C++, etc<br>
-      📫 How to reach me: owaiskhan.2906@gmail.com
-    </td>
-    <td>
-      <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" width="300"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h2 >💫 About Me:</h2>
+        <ul>
+          <li>🔭 I’m currently working on Data Science</li>
+          <li>🌱 I’m currently learning Machine Learning</li>
+          <li>👯 I’m looking to collaborate on Artificial Intelligence</li>
+          <li>🤝 I’m looking for help with Machine Learning</li>
+          <li>👨‍💻 All of my projects are available at <a href="https://github.com/Slopyy-sid">GitHub</a></li>
+          <li>💬 Ask me about Python, Data Science, Java, C++, etc.</li>
+          <li>📫 Reach me at <a href="mailto:owaiskhan.2906@gmail.com">owaiskhan.2906@gmail.com</a></li>
+        </ul>
+      </td>
+      <td>
+        <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" style="border-radius: 15px;">
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <h3 align="center">✍️ Random Dev Quote</h3>
