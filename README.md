@@ -25,7 +25,6 @@
     </tr>
   </table>
 </div>
-
 <h3 align="center">✍️ Random Dev Quote</h3>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
