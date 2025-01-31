@@ -3,20 +3,22 @@
 
 ## 💫 About Me:
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    🔭 I’m currently working on Data Science<br>
-    🌱 I’m currently learning Machine Learning<br>
-    👯 I’m looking to collaborate on Artificial Intelligence<br>
-    🤝 I’m looking for help with Machine Learning<br>
-    👨‍💻 All of my projects are available at <a href="https://github.com/Slopyy-sid">GitHub</a><br>
-    💬 Ask me about Python, Data Science, Java, C++, etc<br>
-    📫 How to reach me: owaiskhan.2906@gmail.com
-  </div>
-  <div>
-    <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" width="300"/>
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      🔭 I’m currently working on Data Science<br>
+      🌱 I’m currently learning Machine Learning<br>
+      👯 I’m looking to collaborate on Artificial Intelligence<br>
+      🤝 I’m looking for help with Machine Learning<br>
+      👨‍💻 All of my projects are available at <a href="https://github.com/Slopyy-sid">GitHub</a><br>
+      💬 Ask me about Python, Data Science, Java, C++, etc<br>
+      📫 How to reach me: owaiskhan.2906@gmail.com
+    </td>
+    <td>
+      <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" width="300"/>
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="center">✍️ Random Dev Quote</h3>
