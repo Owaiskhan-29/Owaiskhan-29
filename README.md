@@ -11,15 +11,13 @@
     <tr>
       <td>
         <h2 align="center">💫 About Me:</h2>
-        <ul >
-          <li>🔭 I’m currently working on Data Science and Data Analyst </li>
-          <li>🌱 I’m currently learning Machine Learning </li>
-          <li>👯 I’m looking to collaborate on Artificial Intelligence</li>
-          <li>🤝 I’m looking for help with Machine Learning </li>
-          <li>👨‍💻 All of my projects are available at <a href="https://github.com/Owaiskhan-29">GitHub</a></li>
-          <li>💬 Ask me about Python, Data Science, Java, etc.</li>
-          <li>📫 Reach me at <a href="mailto:owaiskhan.2906@gmail.com">owaiskhan.2906@gmail.com</a></li>
-        </ul>
+        <p>I’m currently working on Data Science and Data Analyst.</p>
+        <p>I’m currently learning Machine Learning.</p>
+        <p>I’m looking to collaborate on Artificial Intelligence.</p>
+        <p>I’m looking for help with Machine Learning.</p>
+        <p>All of my projects are available at <a href="https://github.com/Owaiskhan-29">GitHub</a>.</p>
+        <p>Ask me about Python, Data Science, Java, etc.</p>
+        <p>Reach me at <a href="mailto:owaiskhan.2906@gmail.com">owaiskhan.2906@gmail.com</a>.</p>
       </td>
       <td>
         <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" style="border-radius: 15px;">
@@ -27,7 +25,6 @@
     </tr>
   </table>
 </div>
-
 
 
 
