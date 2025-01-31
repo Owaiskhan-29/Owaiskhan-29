@@ -12,9 +12,9 @@
       <td>
         <h2 align="center">💫 About Me:</h2>
         <ul >
-          <li>🔭 I’m currently working on Data Sciencewe waahifja haijfiojaoj  wihfajfoaf</li>
-          <li>🌱 I’m currently learning Machine Learning</li>
-          <li>👯 I’m looking to collaborate on AI</li>
+          <li>🔭 I’m currently working on Data Science e</li>
+          <li>🌱 I’m currently learning Machine Learnin and Deep Learning</li>
+          <li>👯 I’m looking to collaborate on Artificial Intelligence</li>
           <li>🤝 I’m looking for help with Machine Learning</li>
           <li>👨‍💻 All of my projects are available at <a href="https://github.com/Slopyy-sid">GitHub</a></li>
           <li>💬 Ask me about Python, Data Science, Java, etc.</li>
