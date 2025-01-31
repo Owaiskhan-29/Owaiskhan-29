@@ -11,7 +11,7 @@
     <tr>
       <td>
         <h2 align="center">💫 About Me:</h2>
-        <p>🔭 I’m currently working on Data Science.</p>
+        <p>🔭 I’m currently working on Data Science.                                            </p>
         <p>🌱 I’m currently learning Machine Learning.</p>
         <p>👯 I’m looking to collaborate on Artificial Intelligence.     </p>
         <p>🤝 I’m looking for help with Machine Learning.</p>
