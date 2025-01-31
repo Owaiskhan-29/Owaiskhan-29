@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Insighter</h3>
 
 ## 💫 About Me:
-<div>
+<h3> 
 🔭 I’m currently working on Data Science<br>
 🌱 I’m currently learning Machine Learning<br>
 👯 I’m looking to collaborate on Artificial Intelligence<br>
@@ -12,7 +12,7 @@
 📫 How to reach me: owaiskhan.2906@gmail.com
 
 <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" align="right" width="300"/>
-</div>
+</h3>
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 <div align="center">
