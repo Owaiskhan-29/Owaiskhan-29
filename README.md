@@ -2,15 +2,17 @@
 <h3 align="center">A passionate Data Insighter</h3>
 
 ## 💫 About Me:
-<table style="width: 100%; max-width: 1000px; margin: 0 auto;">
+<table style="width: 100%; max-width: 900px; margin: 0 auto; table-layout: fixed;">
   <tr>
     <!-- Left column for About Me -->
-    <td style="width: 50%; text-align: left; padding-right: 20px;">
-      Hello! I'm a data enthusiast with a passion for Machine Learning, Artificial Intelligence, and Data Science. I'm always excited to explore new ways to leverage data to solve complex problems and create impactful solutions. I specialize in Python, Machine Learning, and Data Science tools, and I'm continuously learning and experimenting with new technologies. Feel free to explore my projects and collaborate on exciting challenges. If you have any questions or ideas, don't hesitate to reach out!
+    <td style="width: 50%; text-align: left; vertical-align: top; padding: 20px;">
+      <p style="font-size: 16px; line-height: 1.5;">
+        Hello! I'm a data enthusiast with a passion for exploring Machine Learning, Artificial Intelligence, and Data Science. I love solving complex problems with data and building innovative solutions. Feel free to check out my projects or reach out for collaboration!
+      </p>
     </td>
     <!-- Right column for the image -->
-    <td style="width: 50%; text-align: right;">
-      <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" width="300"/>
+    <td style="width: 50%; text-align: center; vertical-align: top; padding: 20px;">
+      <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" style="width: 250px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
     </td>
   </tr>
 </table>
