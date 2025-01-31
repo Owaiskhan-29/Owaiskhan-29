@@ -2,20 +2,20 @@
 <h3 align="center">A passionate Data Insighter</h3>
 
 ## 💫 About Me:
-<table style="width: 100%; max-width: 900px; margin: 0 auto; table-layout: fixed;">
-  <tr>
-    <!-- Left column for About Me -->
-    <td style="width: 50%; text-align: left; vertical-align: top; padding: 20px;">
-      <p style="font-size: 16px; line-height: 1.5;">
-        Hello! I'm a data enthusiast with a passion for exploring Machine Learning, Artificial Intelligence, and Data Science. I love solving complex problems with data and building innovative solutions. Feel free to check out my projects or reach out for collaboration!
-      </p>
-    </td>
-    <!-- Right column for the image -->
-    <td style="width: 50%; text-align: center; vertical-align: top; padding: 20px;">
-      <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" style="width: 250px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 900px; margin: 0 auto; padding: 20px; box-sizing: border-box;">
+  <!-- Left section: About Me -->
+  <div style="flex: 1; padding: 20px;">
+    <p style="font-size: 16px; line-height: 1.6;">
+      Hello! I'm a data enthusiast with a passion for exploring Machine Learning, Artificial Intelligence, and Data Science. 
+      I enjoy solving complex problems with data and creating innovative solutions. Feel free to check out my projects or 
+      reach out for collaboration!
+    </p>
+  </div>
+  <!-- Right section: Image -->
+  <div style="flex: 1; text-align: center; padding: 20px;">
+    <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" style="width: 100%; max-width: 300px; border-radius: 10px;">
+  </div>
+</div>
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 <div align="center">
