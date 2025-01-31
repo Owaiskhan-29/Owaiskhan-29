@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Owais Khan</h1>
+<h3 align="center">A passionate Data Insighter</h3>
+<img align="right" alt="Coding" width="400" 
 # 💫 About Me:
 🔭 I’m currently working on Data Science<br><br>🌱 I’m currently learning Machine learning<br><br>👯 I’m looking to collaborate on Artificial Intelligence<br><br>🤝 I’m looking for help with Machine Learnning<br><br>👨‍💻 All of my projects are available at https://github.com/Slopyy-sid<br><br>💬 Ask me about Python,data science,Java,C++ etc<br><br>📫 How to reach me owaiskhan.2906@gmail.com
 
