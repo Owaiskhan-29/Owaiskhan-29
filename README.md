@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Data Insighter</h3>
 
 <div align="center">
-  <table style="width: 90%; border-spacing: 30px;">
+  <table style="width: 80%; border-spacing: 0;">
     <tr>
       <!-- About Me Section -->
-      <td style="vertical-align: top; text-align: left; width: 50%; padding-right: 20px;">
+      <td style="width: 50%; padding-right: 20px; text-align: left; vertical-align: top;">
         <h2>💫 About Me:</h2>
         <p style="font-size: 16px; line-height: 1.8;">
           Hello! I am a passionate data enthusiast currently exploring the fascinating world of Data Science. 
@@ -19,7 +19,7 @@
         </p>
       </td>
       <!-- Image Section -->
-      <td style="vertical-align: top; text-align: center; width: 50%; padding-left: 20px;">
+      <td style="width: 50%; padding-left: 20px; text-align: center; vertical-align: top;">
         <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" style="border-radius: 15px; width: 300px; height: auto;">
       </td>
     </tr>
