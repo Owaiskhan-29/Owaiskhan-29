@@ -7,13 +7,7 @@
       <td>
         <h2 align="center" >💫 About Me:</h2>
         <ul>
-          <li>🔭 I’m currently working on Data Science</li>
-          <li>🌱 I’m currently learning Machine Learning</li>
-          <li>👯 I’m looking to collaborate on Artificial Intelligence</li>
-          <li>🤝 I’m looking for help with Machine Learning</li>
-          <li>👨‍💻 All of my projects are available at <a href="https://github.com/Slopyy-sid">GitHub</a></li>
-          <li>💬 Ask me about Python, Data Science, Java, C++, etc.</li>
-          <li>📫 Reach me at <a href="mailto:owaiskhan.2906@gmail.com">owaiskhan.2906@gmail.com</a></li>
+          <li>🔭Hello! I'm a data enthusiast with a passion for Machine Learning, Artificial Intelligence, and Data Science. I'm always excited to explore new ways to leverage data to solve complex problems and create impactful    solutions. I specialize in Python, Machine Learning, and Data Science tools, and I'm continuously learning and experimenting with new technologies. Feel free to explore my projects and collaborate on exciting challenges. If you have any questions or ideas, don't hesitate to reach out!</li>
         </ul>
       </td>
       <td>
