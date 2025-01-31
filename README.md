@@ -1,21 +1,24 @@
 <h1 align="center">Hi 👋, I'm Owais Khan</h1>
 <h3 align="center">A passionate Data Insighter</h3>
 
+
+
+<h1 align="center">Hi 👋, I'm Owais Khan</h1>
+<h3 align="center">A passionate Data Insighter</h3>
+
 <div align="center">
   <table>
     <tr>
       <td>
         <h2 align="center">💫 About Me:</h2>
         <ul align="center">
-          <p>
-            Hello! I am a passionate data enthusiast currently exploring the fascinating world of Data Science.
-            With a strong interest in Machine Learning and Artificial Intelligence,I enjoy solving
-            complex problems and uncovering insights through data. I’m eager 
-            I’m looking for help with Machine Learning
-            All of my projects are available at <a href="https://github.com/Slopyy-sid">GitHub
-            Ask me about Python, Data Science, Java, C++, etc.
-            Reach me at <a href="mailto:owaiskhan.2906@gmail.com">
-          </p>
+          <li>🔭 I’m currently working on Data Science</li>
+          <li>🌱 I’m currently learning Machine Learning</li>
+          <li>👯 I’m looking to collaborate on Artificial Intelligence</li>
+          <li>🤝 I’m looking for help with Machine Learning</li>
+          <li>👨‍💻 All of my projects are available at <a href="https://github.com/Slopyy-sid">GitHub</a></li>
+          <li>💬 Ask me about Python, Data Science, Java, C++, etc.</li>
+          <li>📫 Reach me at <a href="mailto:owaiskhan.2906@gmail.com">owaiskhan.2906@gmail.com</a></li>
         </ul>
       </td>
       <td>
@@ -24,7 +27,6 @@
     </tr>
   </table>
 </div>
-
 
 
 
