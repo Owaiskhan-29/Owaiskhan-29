@@ -3,7 +3,11 @@
 
 <div style="width: 80%; margin: auto; border: 2px solid #ccc; border-radius: 15px; padding: 20px;">
   <div style="display: flex; justify-content: space-between; align-items: center;">
-    <!-- About Me Section -->
+    <!-- Image Section (Left) -->
+    <div style="width: 48%; text-align: center;">
+      <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" style="border-radius: 15px; width: 100%; max-width: 300px; height: auto;">
+    </div>
+    <!-- About Me Section (Right) -->
     <div style="width: 48%; text-align: left;">
       <h2>💫 About Me:</h2>
       <p style="font-size: 16px; line-height: 1.8;">
@@ -16,14 +20,9 @@
         or reach out to me at 
         <a href="mailto:owaiskhan.2906@gmail.com">owaiskhan.2906@gmail.com</a>.
       </p>
-    </div> 
-    <!-- Image Section -->
-    <div style="width: 48%; text-align: center;">
-      <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" style="border-radius: 15px; width: 100%; max-width: 300px; height: auto;">
     </div>
   </div>
 </div>
-
 
 
 
