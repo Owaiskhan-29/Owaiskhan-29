@@ -1,27 +1,29 @@
 <h1 align="center">Hi 👋, I'm Owais Khan</h1>
 <h3 align="center">A passionate Data Insighter</h3>
 
-<div style="width: 80%; margin: auto; border: 2px solid #ccc; border-radius: 15px; padding: 20px;">
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <!-- About Me Section (Left) -->
-    <div style="width: 50%; text-align: left;">
-      <h2>💫 About Me:</h2>
-      <p style="font-size: 16px; line-height: 1.8;">
-        Hello! I am a passionate data enthusiast currently exploring the fascinating world of Data Science. 
-        With a strong interest in Machine Learning and Artificial Intelligence, I enjoy solving complex problems and 
-        uncovering insights through data. I’m eager to collaborate on innovative AI projects and continuously expand my skillset. 
-        My technical expertise includes Python, Data Science, Java, and C++, and I am always open to discussing ideas and sharing knowledge. 
-        Feel free to explore my projects on 
-        <a href="https://github.com/Slopyy-sid" target="_blank">GitHub</a> 
-        or reach out to me at 
-        <a href="mailto:owaiskhan.2906@gmail.com">owaiskhan.2906@gmail.com</a>.
-      </p>
-    </div>
-    <!-- Image Section (Right) -->
-    <div style="width: 50%; text-align: center;">
-      <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" style="border-radius: 15px; width: 100%; max-width: 300px; height: auto;">
-    </div>
-  </div>
+<div align="center">
+  <table style="width: 80%; border-spacing: 0; border: 2px solid #ccc; border-radius: 15px;">
+    <tr>
+      <!-- Left Section: About Me -->
+      <td style="width: 50%; padding: 20px; vertical-align: top; text-align: left;">
+        <h2>💫 About Me:</h2>
+        <p style="font-size: 16px; line-height: 1.8;">
+          Hello! I am a passionate data enthusiast currently exploring the fascinating world of Data Science. 
+          With a strong interest in Machine Learning and Artificial Intelligence, I enjoy solving complex problems and 
+          uncovering insights through data. I’m eager to collaborate on innovative AI projects and continuously expand my skillset. 
+          My technical expertise includes Python, Data Science, Java, and C++, and I am always open to discussing ideas and sharing knowledge. 
+          Feel free to explore my projects on 
+          <a href="https://github.com/Slopyy-sid" target="_blank">GitHub</a> 
+          or reach out to me at 
+          <a href="mailto:owaiskhan.2906@gmail.com">owaiskhan.2906@gmail.com</a>.
+        </p>
+      </td>
+      <!-- Right Section: Image -->
+      <td style="width: 50%; padding: 20px; vertical-align: top; text-align: center;">
+        <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" style="border-radius: 15px; max-width: 100%; height: auto;">
+      </td>
+    </tr>
+  </table>
 </div>
 
 
