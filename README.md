@@ -1,22 +1,18 @@
 <h1 align="center">Hi 👋, I'm Owais Khan</h1>
 <h3 align="center">A passionate Data Insighter</h3>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h2 align="center" >💫 About Me:</h2>
-        <ul>
-          <li>🔭Hello! I'm a data enthusiast with a passion for Machine Learning, Artificial Intelligence, and Data Science. I'm always excited to explore new ways to leverage data to solve complex problems and create impactful    solutions. I specialize in Python, Machine Learning, and Data Science tools, and I'm continuously learning and experimenting with new technologies. Feel free to explore my projects and collaborate on exciting challenges. If you have any questions or ideas, don't hesitate to reach out!</li>
-        </ul>
-      </td>
-      <td>
-        <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" style="border-radius: 15px;">
-      </td>
-    </tr>
-  </table>
-</div>
+## 💫 About Me:
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" width="300"/>
+    </td>
+    <td style="vertical-align: top;">
+      Hello! I'm a data enthusiast with a passion for Machine Learning, Artificial Intelligence, and Data Science. I'm always excited to explore new ways to leverage data to solve complex problems and create impactful solutions. I specialize in Python, Machine Learning, and Data Science tools, and I'm continuously learning and experimenting with new technologies. Feel free to explore my projects and collaborate on exciting challenges. If you have any questions or ideas, don't hesitate to reach out!
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 <div align="center">
