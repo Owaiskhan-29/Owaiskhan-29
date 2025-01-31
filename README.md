@@ -7,13 +7,15 @@
       <td>
         <h2 align="center">💫 About Me:</h2>
         <ul align="center">
-          <li>Hello! I am a passionate data enthusiast currently exploring the fascinating world of Data Science. </li>
-          <li>With a strong interest in Machine Learning and Artificial Intelligence,I enjoy solving</li>
-          <li>complex problems and uncovering insights through data. I’m eager </li>
-          <li>I’m looking for help with Machine Learning</li>
-          <li>👨‍💻 All of my projects are available at <a href="https://github.com/Slopyy-sid">GitHub</a></li>
-          <li>💬 Ask me about Python, Data Science, Java, C++, etc.</li>
-          <li>📫 Reach me at <a href="mailto:owaiskhan.2906@gmail.com">owaiskhan.2906@gmail.com</a></li>
+          <div> 
+            Hello! I am a passionate data enthusiast currently exploring the fascinating world of Data Science.
+            With a strong interest in Machine Learning and Artificial Intelligence,I enjoy solving
+            complex problems and uncovering insights through data. I’m eager 
+            I’m looking for help with Machine Learning
+          All of my projects are available at <a href="https://github.com/Slopyy-sid">GitHub
+          Ask me about Python, Data Science, Java, C++, etc.
+          Reach me at <a href="mailto:owaiskhan.2906@gmail.com">owaiskhan.2906@gmail.com
+            </div>
         </ul>
       </td>
       <td>
