@@ -2,20 +2,18 @@
 <h3 align="center">A passionate Data Insighter</h3>
 
 ## 💫 About Me:
-
 <table style="width: 100%; max-width: 1000px; margin: 0 auto;">
   <tr>
-    <!-- Left column for the image -->
-    <td style="width: 40%; text-align: center;">
-      <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" width="300"/>
-    </td>
-    <!-- Right column for About Me -->
-    <td style="width: 60%; padding-left: 20px;">
+    <!-- Left column for About Me -->
+    <td style="width: 50%; text-align: left; padding-right: 20px;">
       Hello! I'm a data enthusiast with a passion for Machine Learning, Artificial Intelligence, and Data Science. I'm always excited to explore new ways to leverage data to solve complex problems and create impactful solutions. I specialize in Python, Machine Learning, and Data Science tools, and I'm continuously learning and experimenting with new technologies. Feel free to explore my projects and collaborate on exciting challenges. If you have any questions or ideas, don't hesitate to reach out!
+    </td>
+    <!-- Right column for the image -->
+    <td style="width: 50%; text-align: right;">
+      <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" width="300"/>
     </td>
   </tr>
 </table>
-
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 <div align="center">
