@@ -4,7 +4,6 @@
 ## 💫 About Me:
 
 <div style="display: flex; justify-content: flex-start; align-items: center; padding: 20px; max-width: 1000px; margin: 0 auto;">
-  
     <div style="flex: 1; padding-right: 20px;">
         Hello! I'm a data enthusiast with a passion for Machine Learning, Artificial Intelligence, and Data Science. I'm always excited to explore new ways to leverage data to solve complex problems and create impactful solutions. I specialize in Python, Machine Learning, and Data Science tools, and I'm continuously learning and experimenting with new technologies. Feel free to explore my projects and collaborate on exciting challenges. If you have any questions or ideas, don't hesitate to reach out!
     </div>
@@ -13,6 +12,7 @@
         <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" width="300"/>
     </div>
 </div>
+
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 <div align="center">
