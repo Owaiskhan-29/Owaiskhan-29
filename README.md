@@ -11,7 +11,7 @@
 💬 Ask me about Python, Data Science, Java, C++, etc<br>
 📫 How to reach me: owaiskhan.2906@gmail.com
 
-<img src="https://github.com/username/repo-name/blob/main/coder-image.png" alt="Coder Image" align="right" width="300"/>
+<img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" align="right" width="300"/>
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 <div align="center">
