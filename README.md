@@ -3,16 +3,18 @@
 
 ## 💫 About Me:
 
-<div style="display: flex; justify-content: flex-start; align-items: center; width: 100%; max-width: 1000px; margin: 0 auto;">
-    <!-- About Me text on the left -->
-    <div style="flex: 1; padding-right: 20px;">
-        Hello! I'm a data enthusiast with a passion for Machine Learning, Artificial Intelligence, and Data Science. I'm always excited to explore new ways to leverage data to solve complex problems and create impactful solutions. I specialize in Python, Machine Learning, and Data Science tools, and I'm continuously learning and experimenting with new technologies. Feel free to explore my projects and collaborate on exciting challenges. If you have any questions or ideas, don't hesitate to reach out!
-    </div>
-    <!-- Image on the right -->
-    <div>
-        <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" width="300"/>
-    </div>
-</div>
+<table style="width: 100%; max-width: 1000px; margin: 0 auto;">
+  <tr>
+    <!-- Left column for the image -->
+    <td style="width: 40%; text-align: center;">
+      <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" width="300"/>
+    </td>
+    <!-- Right column for About Me -->
+    <td style="width: 60%; padding-left: 20px;">
+      Hello! I'm a data enthusiast with a passion for Machine Learning, Artificial Intelligence, and Data Science. I'm always excited to explore new ways to leverage data to solve complex problems and create impactful solutions. I specialize in Python, Machine Learning, and Data Science tools, and I'm continuously learning and experimenting with new technologies. Feel free to explore my projects and collaborate on exciting challenges. If you have any questions or ideas, don't hesitate to reach out!
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="center">✍️ Random Dev Quote</h3>
