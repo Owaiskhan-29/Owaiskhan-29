@@ -1,20 +1,23 @@
 <h1 align="center">Hi 👋, I'm Owais Khan</h1>
 <h3 align="center">A passionate Data Insighter</h3>
 
-## 💫 About Me:
-<table style="width: 100%; max-width: 900px; margin: 0 auto; table-layout: fixed; border-spacing: 20px;">
-  <tr>
-    <!-- Left Section: About Me -->
-    <td style="width: 50%; vertical-align: top; text-align: left; font-size: 16px; line-height: 1.6;">
-      <p>Hello! I'm a data enthusiast passionate about uncovering insights and creating solutions using Data Science, Machine Learning, and Artificial Intelligence.</p>
-      <p>I enjoy working on innovative projects and collaborating with others to make an impact.</p>
-    </td>
-    <!-- Right Section: Image -->
-    <td style="width: 50%; text-align: center;">
-      <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" style="width: 100%; max-width: 250px; border-radius: 10px;">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="width: 80%; border-spacing: 20px;">
+    <tr>
+      <!-- About Me Section -->
+      <td style="vertical-align: top; text-align: left; width: 50%;">
+        <h2>💫 About Me:</h2>
+        <p style="font-size: 16px; line-height: 1.8;">
+          Hello! I am a passionate data enthusiast currently exploring the fascinating world of Data Science. With a strong interest in Machine Learning and Artificial Intelligence, I enjoy solving complex problems and uncovering insights through data. I’m eager to collaborate on innovative AI projects and continuously expand my skillset. My technical expertise includes Python, Data Science, Java, and C++, and I am always open to discussing ideas and sharing knowledge. Feel free to explore my projects on <a href="https://github.com/Slopyy-sid" target="_blank">GitHub</a> or reach out to me at <a href="mailto:owaiskhan.2906@gmail.com">owaiskhan.2906@gmail.com</a>.
+        </p>
+      </td>
+      <!-- Image Section -->
+      <td style="vertical-align: top; text-align: center; width: 50%;">
+        <img src="https://via.placeholder.com/300x300.png?text=Coder+Image" alt="Coder Image" style="border-radius: 15px; max-width: 100%;">
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 <div align="center">
