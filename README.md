@@ -17,8 +17,6 @@
         <a href="mailto:owaiskhan.2906@gmail.com">owaiskhan.2906@gmail.com</a>.
       </p>
     </div>
-    
-    <!-- Image Section (Right) -->
     <div style="width: 48%; text-align: center;">
       <img src="https://github.com/Owaiskhan-29/Owaiskhan-29/blob/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg?raw=true" alt="Coder Image" style="border-radius: 15px; width: 100%; max-width: 300px; height: auto;">
     </div>
