@@ -8,7 +8,7 @@
         <h2 align="center">💫 About Me:</h2>
         <p>🔭 I’m currently working on Data Science. </p>
         <p>🌱 I’m currently learning Machine Learning.</p>
-        <p>👯 I’m looking to collaborate on Artificial Intelligence.     </p>
+        <p>👯 I’m looking to collaborate on AI and ML </p>
         <p>🤝 I’m looking for help with Machine Learning.</p>
         <p>👨‍💻 All of my projects are available at <a href="https://github.com/Owaiskhan-29">GitHub</a>.</p>
         <p>💬 Ask me about Python, Data Science, Java, etc.</p>
