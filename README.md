@@ -14,10 +14,10 @@
         <ul >
           <li>🔭 I’m currently working on Data Science</li>
           <li>🌱 I’m currently learning Machine Learning</li>
-          <li>👯 I’m looking to collaborate on Artificial Intelligence</li>
+          <li>👯 I’m looking to collaborate on AI</li>
           <li>🤝 I’m looking for help with Machine Learning</li>
           <li>👨‍💻 All of my projects are available at <a href="https://github.com/Slopyy-sid">GitHub</a></li>
-          <li>💬 Ask me about Python, Data Science, Java, C++, etc.</li>
+          <li>💬 Ask me about Python, Data Science, Java, etc.</li>
           <li>📫 Reach me at <a href="mailto:owaiskhan.2906@gmail.com">owaiskhan.2906@gmail.com</a></li>
         </ul>
       </td>
