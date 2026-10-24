@@ -1,4 +1,5 @@
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=OWAIS%20KHAN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20BUILDING%20INTELLIGENT%20SYSTEMS&descAlignY=60&descSize=15" width="100%" alt="Owais Khan Banner">
@@ -6,8 +7,6 @@
 <a href="https://github.com/Owaiskhan-29">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+AI+Universe+%F0%9F%A4%96;Exploring+Agentic+AI+%26+LLMs;Building+RAG-Powered+Applications;Experimenting+with+Voice+AI;Turning+Ideas+into+Intelligent+Solutions" alt="Typing animation">
 </a>
-
-<br>
 
 <a href="https://github.com/Owaiskhan-29">
   <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -19,11 +18,12 @@
   <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Owaiskhan-29&style=for-the-badge&color=00D9FF&label=PROFILE+VISITORS" alt="Profile visitors">
 
 </div>
+
 
 ---
 
