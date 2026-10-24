@@ -21,32 +21,34 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00D9FF,100:2C5364&height=3&section=header" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════  ABOUT  ═══════════════════════ -->
-## 👨‍💻 About Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=90&section=header&text=About%20Me&fontSize=34&fontColor=00D9FF&fontAlignY=55" width="100%" alt="About Me"/>
+</div>
 
 <div align="center">
 <table>
 <tr>
 <td width="62%" valign="middle">
 
-### Hey there! 👋 I'm **Owais**
+### 👋 Hey there, I'm **Owais Khan**
 
-An **AI/ML Engineer** who loves building intelligent applications that actually *do* something useful.
+**AI/ML Engineer** passionate about building intelligent applications and exploring what artificial intelligence can really do.
 
-```python
-class OwaisKhan:
-    role      = "AI/ML Engineer"
-    location  = "India 🇮🇳"
-    focus     = ["Agentic AI", "RAG", "LLM Apps", "Voice AI"]
-    stack     = ["Python", "FastAPI", "LangChain", "LangGraph"]
-    currently = "Building multi-agent workflows 🤖"
-    mission   = "Turn innovative ideas into useful, intelligent software"
+🤖 &nbsp;Building **Agentic AI** & LLM-powered applications<br/>
+🧠 &nbsp;Orchestrating **multi-agent workflows**<br/>
+🔎 &nbsp;Exploring **RAG** with vector databases & semantic search<br/>
+🎙️ &nbsp;Experimenting with **real-time, multilingual voice AI**<br/>
+⚡ &nbsp;Shipping APIs & backends with **Python + FastAPI**<br/>
+📊 &nbsp;Learning ML, NLP & computer vision<br/>
+🌱 &nbsp;Always experimenting with new technologies<br/>
+🤝 &nbsp;Open to **AI/ML collaborations** & open-source
 
-    def say_hi(self):
-        return "Let's build something awesome together! 🚀"
-```
+<br/>
+
+> 🎯 **My mission:** Turn innovative ideas into useful, intelligent software.
 
 </td>
 <td width="38%" align="center" valign="middle">
@@ -57,25 +59,32 @@ class OwaisKhan:
 
 **Think AI. Build Smart. Keep Innovating.**
 
+<br/>
+
+<img src="https://img.shields.io/badge/Open_to-Collaboration-2EA44F?style=for-the-badge" alt="Open to collaboration"/>
+<br/>
+<img src="https://img.shields.io/badge/Based_in-India_🇮🇳-FF9933?style=flat-square" alt="India"/>
+<img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified"/>
+
 </td>
 </tr>
 </table>
 </div>
 
-### 🔭 What I'm up to
+<div align="center">
 
-| | Focus | Status |
-|:--:|---|:--:|
-| 🤖 | Agentic AI, tool calling & multi-agent workflows | ![](https://img.shields.io/badge/-Building-00D9FF?style=flat-square) |
-| 🔎 | Retrieval-Augmented Generation & semantic search | ![](https://img.shields.io/badge/-Building-00D9FF?style=flat-square) |
-| 🎙️ | Real-time multilingual voice AI | ![](https://img.shields.io/badge/-Experimenting-FFB703?style=flat-square) |
-| ⚡ | Production APIs with Python & FastAPI | ![](https://img.shields.io/badge/-Shipping-2EA44F?style=flat-square) |
-| 🌱 | Evaluation, observability & reliability for LLM apps | ![](https://img.shields.io/badge/-Learning-9B5DE5?style=flat-square) |
+| 🧠 **Role** | 🎯 **Focus** | ⚙️ **Core Stack** | 🌍 **Status** |
+|:---:|:---:|:---:|:---:|
+| AI/ML Engineer | Agents · RAG · Voice | Python · FastAPI · LangChain | Open to collaborate |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00D9FF,100:2C5364&height=3&section=header" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
-## 🛠️ Tech Stack
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=90&section=header&text=Tech%20Stack&fontSize=34&fontColor=00D9FF&fontAlignY=55" width="100%" alt="Tech Stack"/>
+</div>
 
 <div align="center">
 
@@ -104,10 +113,12 @@ class OwaisKhan:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00D9FF,100:2C5364&height=3&section=header" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════  DASHBOARD  ═══════════════════════ -->
-## ⚡ AI Engineering Dashboard
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=90&section=header&text=AI%20Engineering%20Dashboard&fontSize=34&fontColor=00D9FF&fontAlignY=55" width="100%" alt="AI Engineering Dashboard"/>
+</div>
 
 <div align="center">
 <table>
@@ -137,10 +148,12 @@ flowchart LR
     G -.feedback.-> A
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00D9FF,100:2C5364&height=3&section=header" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════  PROJECTS  ═══════════════════════ -->
-## 🚀 Featured Projects
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=90&section=header&text=Featured%20Projects&fontSize=34&fontColor=00D9FF&fontAlignY=55" width="100%" alt="Featured Projects"/>
+</div>
 
 <div align="center">
 
@@ -163,10 +176,12 @@ flowchart LR
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00D9FF,100:2C5364&height=3&section=header" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════  STATS  ═══════════════════════ -->
-## 📊 GitHub Analytics
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=90&section=header&text=GitHub%20Analytics&fontSize=34&fontColor=00D9FF&fontAlignY=55" width="100%" alt="GitHub Analytics"/>
+</div>
 
 <div align="center">
 
@@ -197,10 +212,12 @@ flowchart LR
 </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00D9FF,100:2C5364&height=3&section=header" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════  ROADMAP  ═══════════════════════ -->
-## 🎯 Learning Roadmap  <sub>(click to expand)</sub>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=90&section=header&text=Learning%20Roadmap&fontSize=34&fontColor=00D9FF&fontAlignY=55" width="100%" alt="Learning Roadmap"/>
+</div>
 
 <details>
 <summary><b>🤖 Agentic AI & Multi-Agent Systems</b> &nbsp;<img src="https://img.shields.io/badge/progress-45%25-00D9FF?style=flat-square" alt="45%"/></summary>
@@ -246,10 +263,12 @@ flowchart LR
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00D9FF,100:2C5364&height=3&section=header" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════  CERTS  ═══════════════════════ -->
-## 🏆 Certifications
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=90&section=header&text=Certifications&fontSize=34&fontColor=00D9FF&fontAlignY=55" width="100%" alt="Certifications"/>
+</div>
 
 <div align="center">
 
@@ -258,7 +277,9 @@ flowchart LR
 </div>
 
 <!-- ═══════════════════════  BEYOND CODE  ═══════════════════════ -->
-## 💡 Beyond the Code
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=90&section=header&text=Beyond%20the%20Code&fontSize=34&fontColor=00D9FF&fontAlignY=55" width="100%" alt="Beyond the Code"/>
+</div>
 
 <div align="center">
 
@@ -293,7 +314,7 @@ flowchart LR
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00D9FF,100:2C5364&height=3&section=header" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════  CONNECT  ═══════════════════════ -->
 <div align="center">
