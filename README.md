@@ -66,9 +66,10 @@
 
 ### 🔝 Top Contributed Repo
 
+
 <div align="center">
   <a href="https://github.com/Owaiskhan-29">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Owaiskhan-29&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories">
+    <img src="https://ghstats.dev/api/card?username=Owaiskhan-29&theme=dark" alt="GitHub Profile Stats" width="500">
   </a>
 </div>
 
@@ -85,11 +86,13 @@
 </div>
 
 --- -->
-
 ## 🌐 Socials
 
 <div align="center">
   <a href="https://www.linkedin.com/in/owais-khan-2906k/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:owaiskhan.2906@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
