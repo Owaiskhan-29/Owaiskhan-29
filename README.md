@@ -67,6 +67,12 @@
 ### 🔝 Top Contributed Repo
 
 <div align="center">
+  <a href="https://github.com/Owaiskhan-29">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Owaiskhan-29&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories">
+  </a>
+</div>
+
+<!-- <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Owaiskhan-29&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
 </div>
 
@@ -78,7 +84,7 @@
   </a>
 </div>
 
----
+--- -->
 
 ## 🌐 Socials
 
