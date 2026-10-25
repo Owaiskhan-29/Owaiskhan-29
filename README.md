@@ -1,78 +1,61 @@
 <!-- ═══════════════════════  HEADER  ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=OWAIS%20KHAN&fontSize=70&fontColor=00D9FF&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20RAG%20%E2%80%A2%20Voice%20AI&descAlignY=60&descSize=20&descColor=ffffff" width="100%" alt="Owais Khan Banner"/>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=OWAIS%20KHAN&fontSize=70&fontColor=00D9FF&animation=twinkling&fontAlignY=48&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20RAG%20%E2%80%A2%20Voice%20AI&descAlignY=76&descSize=20&descColor=ffffff" width="100%" alt="Owais Khan Banner"/>
 <a href="https://github.com/Owaiskhan-29">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=40&lines=Welcome+to+my+AI+Universe+%F0%9F%9A%80;Building+Agentic+AI+%26+Multi-Agent+Systems+%F0%9F%A4%96;Crafting+RAG-Powered+Applications+%F0%9F%94%8E;Experimenting+with+Real-Time+Voice+AI+%F0%9F%8E%99%EF%B8%8F;Turning+Ideas+into+Intelligent+Software+%E2%9A%A1" alt="Typing animation"/>
 </a>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Owaiskhan-29&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Owaiskhan-29?style=for-the-badge&logo=github&color=2C5364" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Owaiskhan-29?style=for-the-badge&logo=github&color=203A43" alt="Stars"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00D9FF,100:2C5364&height=3&section=header" width="100%" alt="divider"/>
-<!-- ═══════════════════════  ABOUT ME  ═══════════════════════ --><div align="center">
+<!-- ═══════════════════════  ABOUT ME  ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=110&section=header&text=ABOUT%20ME&fontSize=38&fontColor=00D9FF&fontAlignY=55" width="100%" alt="About Me"/>
+<div align="center">
 
-<table>
-<tr>
-<td width="32%" align="center" valign="middle">
-
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Owaiskhan-29/Owaiskhan-29/main/569606d2-409b-465f-8f2d-6ef16edd71b1.jpeg&w=320&h=320&fit=cover&mask=circle&output=png" width="230" alt="Owais Khan"/>
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=90&section=header&text=About%20Me&fontSize=34&fontColor=00D9FF&fontAlignY=55" width="100%" alt="About Me"/>
 <br/><br/>
+<p align="center"><b>AI/ML Engineer · Building Intelligent Systems</b></p>
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-ENGINEER-00D9FF?style=for-the-badge&labelColor=0F2027" alt="AI/ML Engineer"/>
+<p align="center">I build AI-powered applications that combine <b>large language models, intelligent agents, retrieval systems, and real-time interactions</b> to solve practical problems.</p>
 
-<br/>
+<p align="center">My focus is on turning emerging AI capabilities into reliable, useful software, from designing <b>RAG pipelines</b> to orchestrating <b>multi-agent workflows</b> and building fast <b>APIs</b>.</p>
 
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2_OPEN_TO-COLLABORATION-2EA44F?style=flat-square" alt="Open to collaboration"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00D9FF,100:2C5364&height=2&section=header" width="50%" alt="line"/>
 
-<br/>
+<h4 align="center">🎯 CORE FOCUS</h4>
 
-<a href="https://www.linkedin.com/in/owais-khan-2906k/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-203A43?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/></a>
-<a href="mailto:owaiskhan.2906@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-203A43?style=flat-square&logo=gmail&logoColor=00D9FF" alt="Email"/></a>
-
-</td>
-<td width="68%" valign="middle">
-
-# Owais Khan
-
-### AI/ML Engineer · Building Intelligent Systems
-
-I build AI-powered applications that combine **large language models, intelligent agents, retrieval systems, and real-time interactions** to solve practical problems.
-
-My focus is on turning emerging AI capabilities into reliable, useful software, from designing **RAG pipelines** to orchestrating **multi-agent workflows** and building fast **APIs**.
-
-<div>
-<br/>
-<p><b>🎯 CORE FOCUS</b></p>
+<p align="center">
 <img src="https://img.shields.io/badge/01-AGENTIC_AI-7C3AED?style=for-the-badge" alt="Agentic AI"/>
 <img src="https://img.shields.io/badge/02-LLM_APPS-2563EB?style=for-the-badge" alt="LLM Apps"/>
 <img src="https://img.shields.io/badge/03-RAG-059669?style=for-the-badge" alt="RAG"/>
 <img src="https://img.shields.io/badge/04-VOICE_AI-DB2777?style=for-the-badge" alt="Voice AI"/>
 <img src="https://img.shields.io/badge/05-AI_BACKEND-0891B2?style=for-the-badge" alt="AI Backend"/>
-<br/><br/>
-<p><b>⚡ TECHNOLOGIES I WORK WITH</b></p>
+</p>
+
+<h4 align="center">⚡ TECHNOLOGIES I WORK WITH</h4>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph"/>
 <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square" alt="CrewAI"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Vector_DBs-5B4BDB?style=flat-square" alt="Vector DBs"/>
-<br/><br/>
-<p><b>🎯 MISSION</b></p>
-Turn innovative ideas into useful, intelligent software.
-<br/><br/>
-</div>
+</p>
 
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00D9FF,100:2C5364&height=2&section=header" width="50%" alt="line"/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF_MISSION-Turn_innovative_ideas_into_useful%2C_intelligent_software-00D9FF?style=for-the-badge&labelColor=0F2027" alt="Mission"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2_OPEN_TO-COLLABORATION-2EA44F?style=flat-square" alt="Open to collaboration"/>
+<img src="https://img.shields.io/badge/AWS-CERTIFIED-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified"/>
+<a href="https://www.linkedin.com/in/owais-khan-2906k/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-203A43?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/></a>
+<a href="mailto:owaiskhan.2906@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-203A43?style=flat-square&logo=gmail&logoColor=00D9FF" alt="Email"/></a>
+</p>
 
 </div>
 
@@ -116,6 +99,7 @@ Turn innovative ideas into useful, intelligent software.
 | <img src="https://img.shields.io/badge/IMPROVEMENT-EA580C?style=flat-square" alt="Improvement"/> | Keep learning, keep improving, keep experimenting |
 
 </details>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00D9FF,100:2C5364&height=3&section=header" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
 <div align="center">
@@ -158,13 +142,18 @@ Turn innovative ideas into useful, intelligent software.
 
 <div align="center">
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Owaiskhan-29&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Owaiskhan-29?style=for-the-badge&logo=github&color=2C5364" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Owaiskhan-29?style=for-the-badge&logo=github&color=203A43" alt="Stars"/>
+</p>
+
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Owaiskhan-29&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owaiskhan-29&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
-<br/><br/>
-
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=Owaiskhan-29&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
+</p>
 </div>
 
 ### 🐍 Contribution Snake
@@ -190,12 +179,5 @@ Turn innovative ideas into useful, intelligent software.
 <a href="mailto:owaiskhan.2906@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/Owaiskhan-29"><img src="https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&lines=Think+AI.+Build+Smart.+Keep+Innovating.+%E2%9C%A8;Thanks+for+stopping+by!+%F0%9F%99%8C" alt="Footer typing"/>
-
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="Footer banner"/>
-
 </div>
