@@ -156,6 +156,8 @@
 </p>
 </div>
 
+<!-- SNAKE (hidden for now: delete the "<!--" and "-->" lines around it to bring it back)
+
 ### 🐍 Contribution Snake
 
 <div align="center">
@@ -166,8 +168,17 @@
 </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00D9FF,100:2C5364&height=3&section=header" width="100%" alt="divider"/>
+-->
 
+### 🫧 Contribution Arcade
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Owaiskhan-29/Owaiskhan-29/arcade/puzzle-bobble-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Owaiskhan-29/Owaiskhan-29/arcade/puzzle-bobble-contribution-graph.svg"/>
+  <img alt="Puzzle Bobble contribution graph" src="https://raw.githubusercontent.com/Owaiskhan-29/Owaiskhan-29/arcade/puzzle-bobble-contribution-graph.svg"/>
+</picture>
+</div>
 <!-- ═══════════════════════  CONNECT  ═══════════════════════ -->
 <div align="center">
 
