@@ -99,6 +99,7 @@
 | <img src="https://img.shields.io/badge/IMPROVEMENT-EA580C?style=flat-square" alt="Improvement"/> | Keep learning, keep improving, keep experimenting |
 
 </details>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00D9FF,100:2C5364&height=3&section=header" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
@@ -156,8 +157,6 @@
 </p>
 </div>
 
-<!-- SNAKE (hidden for now: delete the "<!--" and "-->" lines around it to bring it back)
-
 ### 🐍 Contribution Snake
 
 <div align="center">
@@ -167,6 +166,9 @@
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Owaiskhan-29/Owaiskhan-29/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00D9FF,100:2C5364&height=3&section=header" width="100%" alt="divider"/>
+
 <!-- ═══════════════════════  CONNECT  ═══════════════════════ -->
 <div align="center">
 
