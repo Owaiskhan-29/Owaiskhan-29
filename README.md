@@ -167,18 +167,6 @@
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Owaiskhan-29/Owaiskhan-29/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 </div>
-
--->
-
-### 🫧 Contribution Arcade
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Owaiskhan-29/Owaiskhan-29/arcade/puzzle-bobble-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Owaiskhan-29/Owaiskhan-29/arcade/puzzle-bobble-contribution-graph.svg"/>
-  <img alt="Puzzle Bobble contribution graph" src="https://raw.githubusercontent.com/Owaiskhan-29/Owaiskhan-29/arcade/puzzle-bobble-contribution-graph.svg"/>
-</picture>
-</div>
 <!-- ═══════════════════════  CONNECT  ═══════════════════════ -->
 <div align="center">
 
